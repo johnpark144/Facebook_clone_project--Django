@@ -24,10 +24,7 @@ This is the Facebook_clone that I made by refering to orginal Facebook site.
 
 # Sample video
 
-Chatting and deleting:
-
-
-1. Upload feed, Like:
+<b> 1. Upload feed, Like: <b>
 <video src="https://user-images.githubusercontent.com/106279616/191623900-1e35f405-4a8a-447b-92b4-7639bc497efd.mp4"></video>
 2. Comment:
 <video src="https://user-images.githubusercontent.com/106279616/191623982-7c4986b7-1879-42a9-a4f0-3bb11e4f1f1b.mp4"></video>
