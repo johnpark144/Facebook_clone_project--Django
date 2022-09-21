@@ -23,11 +23,23 @@ This is the Facebook_clone that I made by refering to orginal Facebook site.
 - Login, Logout, Signup
 
 # Sample video
-1. Upload feed, Like
-2. Comment
-3. Comment's comment, Comment Like
-4. Share feed, Like and comment with another username
-5. Modify, Delete, Hide
-6. Realtime news(beautifulsoup), News search
-7. Signup, Login
-8. Size adjust
+
+Chatting and deleting:
+<video src="https://user-images.githubusercontent.com/106279616/191623900-1e35f405-4a8a-447b-92b4-7639bc497efd.mp4"></video>
+
+1. Upload feed, Like:
+<video src="https://user-images.githubusercontent.com/106279616/191623900-1e35f405-4a8a-447b-92b4-7639bc497efd.mp4"></video>
+2. Comment:
+
+3. Comment's comment, Comment Like:
+
+4. Share feed, Like and comment with another username:
+
+5. Modify, Delete, Hide:
+
+6. Realtime news(beautifulsoup), News search:
+
+7. Signup, Login:
+
+8. Size adjust:
+
