@@ -22,6 +22,9 @@ This is the Facebook_clone that I made by refering to orginal Facebook site.
 - News (Beautiful soup(realtime news), Search)
 - Login, Logout, Signup
 
+# Sample picture
+![실제컬러](https://user-images.githubusercontent.com/106279616/191626341-8e8bbd7a-597b-4059-b853-739145c084b1.png)
+
 # Sample video
 
 <h2> 1. Upload feed, Like: </h2>
