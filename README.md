@@ -23,7 +23,9 @@ This is the Facebook_clone that I made by refering to orginal Facebook site.
 - Login, Logout, Signup
 
 # Sample picture
-![실제컬러](https://user-images.githubusercontent.com/106279616/191626341-8e8bbd7a-597b-4059-b853-739145c084b1.png)
+![실제컬러](https://user-images.githubusercontent.com/106279616/191629643-d0877491-ecb7-4275-b022-5212485c4090.png)
+
+![기능](https://user-images.githubusercontent.com/106279616/191629519-37debe87-b362-4a51-9093-6f3e14d13f81.png)
 
 # Sample video
 
