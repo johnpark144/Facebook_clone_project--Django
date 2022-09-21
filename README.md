@@ -23,3 +23,11 @@ This is the Facebook_clone that I made by refering to orginal Facebook site.
 - Login, Logout, Signup
 
 # Sample video
+1. Upload feed, Like
+2. Comment
+3. Comment's comment, Comment Like
+4. Share feed, Like and comment with another username
+5. Modify, Delete, Hide
+6. Realtime news(beautifulsoup), News search
+7. Signup, Login
+8. Size adjust
