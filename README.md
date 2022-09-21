@@ -25,7 +25,7 @@ This is the Facebook_clone that I made by refering to orginal Facebook site.
 # Sample video
 
 <h2> 1. Upload feed, Like: </h2>
-<video style="width:150px; height:100px" src="https://user-images.githubusercontent.com/106279616/191623900-1e35f405-4a8a-447b-92b4-7639bc497efd.mp4"></video>
+<video style="width:120px; height:80px" src="https://user-images.githubusercontent.com/106279616/191623900-1e35f405-4a8a-447b-92b4-7639bc497efd.mp4"></video>
 <h2> 2. Comment: </h2>
 <video style="width:150px; height:100px" src="https://user-images.githubusercontent.com/106279616/191623982-7c4986b7-1879-42a9-a4f0-3bb11e4f1f1b.mp4"></video>
 <h2> 3. Comment's comment, Comment Like: </h2>
