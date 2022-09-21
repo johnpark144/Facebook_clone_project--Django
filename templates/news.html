@@ -1,0 +1,39 @@
+{% extends 'frame.html' %}
+{% block content %}
+{% load static %}
+
+<div class="sb" style="padding-left: 2px; margin-top: 60px;">
+    <!-- Left -->
+    <div style="background-color: white; width: 350px; height: 700px; position: fixed; padding: 15px;"
+        class="shadow">
+        <form id="searchForm" method="get" action="{% url 'news' %}">
+            <h3><b>News</b></h3>
+            <input type="search" id="news_search" name="news_search" placeholder="Search News"
+                style=" border-radius: 30px; background: #f0eeee; width: 100%;">
+        </form>
+        <a class="left_menu" href="{% url 'news' %}" style="text-decoration: none; color: black;"><img
+                src="https://static.xx.fbcdn.net/rsrc.php/v3/yT/r/jEh7gupryIB.png"> Home</a>
+    </div>
+    <!-- Center -->
+    <div id="articles" style="left: 530px; margin-left: 380px; margin-top: 15px; position: sticky;">
+        <h4><b>Hello {{ user.name }}</b></h4>
+        <h6 style="color: gray;">{{ date }} {{ weekday }}</h6>
+        <br>
+        {% for news in news_list %}
+        <div class="shadow"
+            style=" background-color: white; width:420px; height: 334px; border-radius: 10px; margin-bottom: 20px;">
+            <a href="{{ news.link }}">
+                <img src="{{ news.picture }}"
+                    style="width:420px; height: 250px; border-top-left-radius: 10px; border-top-right-radius: 10px;">
+            </a>
+            <div style="padding: 15px; width:420px;">
+                <a style="text-decoration : none; color: black; " href="{{ news.link }}">
+                    <h5>{{ news.title }}</h5>
+                </a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+{% endblock %}
