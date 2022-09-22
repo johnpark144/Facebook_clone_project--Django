@@ -8,7 +8,7 @@ This is the Facebook_clone that I made by refering to orginal Facebook site.
 - Date of creation : Sep 7th ~ Sep 18th 2022
 - Date of debugging : Sep 19th ~ Sep 20th 2022
 
-# What I did
+# Functions
 - Navbar, Feed
 - Feed upload (text, pic, text and pic)
 - Feed like (likeicon, likecount)
