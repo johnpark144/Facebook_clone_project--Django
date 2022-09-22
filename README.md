@@ -33,7 +33,7 @@ This is the Facebook_clone that I made by refering to orginal Facebook site.
 <video src="https://user-images.githubusercontent.com/106279616/191656908-86796606-6ba4-49bf-be79-ad199dacde5f.mp4"></video>
 <h2> 2. Comment: </h2>
 <video src="https://user-images.githubusercontent.com/106279616/191656944-58412787-06b1-467e-b67e-d903238acac0.mp4"></video>
-<h2> 3. Comment's comment, Comment Like: </h2>
+<h2> 3. Comment Like, Comment's comment: </h2>
 <video src="https://user-images.githubusercontent.com/106279616/191656972-dae22358-8c45-46f7-9e9d-07dbf779828e.mp4"></video>
 <h2> 4. Share feed, Like and comment with another username: </h2>
 <video src="https://user-images.githubusercontent.com/106279616/191657008-6713f692-ef85-44fd-a592-ecec8ce0e6e7.mp4"></video>
