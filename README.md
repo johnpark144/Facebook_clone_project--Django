@@ -29,7 +29,7 @@ This is the Facebook_clone that I made by refering to orginal Facebook site.
 
 # Sample video
 All page looks like white in the videos but real look is like the picture above,
-So please pay attention only to functions
+<br>So please pay attention only to functions
 <h2> 1. Upload feed, Like: </h2>
 <video src="https://user-images.githubusercontent.com/106279616/191656908-86796606-6ba4-49bf-be79-ad199dacde5f.mp4"></video>
 <h2> 2. Comment: </h2>
