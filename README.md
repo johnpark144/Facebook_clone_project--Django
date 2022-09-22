@@ -30,18 +30,18 @@ This is the Facebook_clone that I made by refering to orginal Facebook site.
 # Sample video
 
 <h2> 1. Upload feed, Like: </h2>
-<video src="https://user-images.githubusercontent.com/106279616/191654290-9c6da10a-8a95-41dd-ae62-396c8529eb57.mp4"></video>
+<video src="https://user-images.githubusercontent.com/106279616/191656908-86796606-6ba4-49bf-be79-ad199dacde5f.mp4"></video>
 <h2> 2. Comment: </h2>
-<video src="https://user-images.githubusercontent.com/106279616/191623982-7c4986b7-1879-42a9-a4f0-3bb11e4f1f1b.mp4"></video>
+<video src="https://user-images.githubusercontent.com/106279616/191656944-58412787-06b1-467e-b67e-d903238acac0.mp4"></video>
 <h2> 3. Comment's comment, Comment Like: </h2>
-<video src="https://user-images.githubusercontent.com/106279616/191623996-0cdf3b36-022f-4b01-a795-76c55546bed6.mp4"></video>
+<video src="https://user-images.githubusercontent.com/106279616/191656972-dae22358-8c45-46f7-9e9d-07dbf779828e.mp4"></video>
 <h2> 4. Share feed, Like and comment with another username: </h2>
-<video src="https://user-images.githubusercontent.com/106279616/191624087-95245bb3-3e81-42e2-9483-9e1a615d57a5.mp4"></video>
+<video src="https://user-images.githubusercontent.com/106279616/191657008-6713f692-ef85-44fd-a592-ecec8ce0e6e7.mp4"></video>
 <h2> 5. Modify, Delete, Hide: </h2>
-<video src="https://user-images.githubusercontent.com/106279616/191624251-c0a7c405-7f2f-4c69-b379-b41f4c5837b1.mp4"></video>
+<video src="https://user-images.githubusercontent.com/106279616/191657027-db65ff9c-d218-434c-b7c5-d5f66ca07e06.mp4"></video>
 <h2> 6. Realtime news(beautifulsoup), News search: </h2>
-<video src="https://user-images.githubusercontent.com/106279616/191624366-42407108-0dcf-4fac-a83a-ef9c86f721e6.mp4"></video>
+<video src="https://user-images.githubusercontent.com/106279616/191657054-35668db2-c213-4122-9ccb-03ac0c928826.mp4"></video>
 <h2> 7. Signup, Login: </h2>
-<video src="https://user-images.githubusercontent.com/106279616/191624598-051f4d9b-dc7c-4f77-b915-1506637aa6ae.mp4"></video>
+<video src="https://user-images.githubusercontent.com/106279616/191657084-865b5a94-30d8-455c-b0db-34b98b9e4414.mp4"></video>
 <h2> 8. Size adjust: </h2>
-<video src="https://user-images.githubusercontent.com/106279616/191624649-bf137988-083b-4e8f-bd23-a15a92e42343.mp4"></video>
+<video src="https://user-images.githubusercontent.com/106279616/191657115-1e998ec3-60a5-4441-ab7c-7a4da2b1aad1.mp4"></video>
