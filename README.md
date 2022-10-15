@@ -19,7 +19,8 @@ This is Facebook clone page that I built by refering to orginal Facebook site.
 - Feed delete (data delete)
 - Feed hide (data exist)
 - Feed share
-- News (Beautiful soup(realtime news), Search)
+- News (Beautiful soup(realtime news)
+- News Search
 - Login, Logout, Signup
 
 # Sample pictures
