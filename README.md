@@ -1,4 +1,4 @@
-# Facebook_clone_project--Django-Beautifulsoup
+# Facebook_clone_project--Django
 
 - Creater : Yeonghwan Park (John Park)
 - Main Tools : Python(Django)
