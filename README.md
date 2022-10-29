@@ -9,7 +9,7 @@ This is Facebook clone page that I built by refering to orginal Facebook site.
 - Date of debugging : Sep 19th ~ Sep 20th 2022
 
 # Functions
-- Navbar, Feed
+- Navbar(responsive), Feed
 - Feed upload (text, pic, text and pic)
 - Feed like (likeicon, likecount)
 - Comment
