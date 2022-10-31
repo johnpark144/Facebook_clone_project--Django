@@ -2,7 +2,7 @@
 
 - Creater : Yeonghwan Park (John Park)
 - Main Tools : Python(Django)
-- Sub Tools : Html, Css(Bootstrap), JS(Jquery), Python(Beautifulsoup)
+- Sub Tools : Html, CSS(Bootstrap), JS(Jquery), Python(Beautifulsoup)
 - Explantion :
 This is Facebook clone page that I built by refering to orginal Facebook site.
 - Date of creation : Sep 7th ~ Sep 18th 2022
