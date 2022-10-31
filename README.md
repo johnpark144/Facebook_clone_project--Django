@@ -7,6 +7,7 @@
 This is Facebook clone page that I built by refering to orginal Facebook site.
 - Date of creation : Sep 7th ~ Sep 18th 2022
 - Date of debugging : Sep 19th ~ Sep 20th 2022
+- Date of upload in Github : Sep 20th 2022
 
 # Functions
 - Navbar(responsive), Feed
