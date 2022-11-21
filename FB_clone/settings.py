@@ -124,3 +124,6 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 LOGIN_REDIRECT_URL = '/main/'
 # 로그아웃시 이동하는 URL
 LOGOUT_REDIRECT_URL = '/login/'
+
+PROJECT_DIR = os.path.dirname(os.path.abspath(__file__))
+STATIC_ROOT = os.path.join(PROJECT_DIR, 'static')
