@@ -1,8 +1,4 @@
-asgiref==3.5.2
-async-generator==1.10
-attrs==22.1.0
 beautifulsoup4==4.11.1
-certifi==2022.6.15.1
 Django==4.1.1
 django-passwords==0.3.12
 djangorestframework==3.13.1
