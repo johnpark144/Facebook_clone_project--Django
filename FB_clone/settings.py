@@ -28,6 +28,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'main',
     'FB_clone',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
