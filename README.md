@@ -6,6 +6,9 @@
 - Sub Tools : Html, CSS(Bootstrap), JS(Jquery), Python(Beautifulsoup)
 - Explantion :
 This is Facebook clone page that I built by refering to orginal Facebook site.
+- Ps :
+since It is first time project that I made, There would be some lack,
+but my work is getting improved after this project.
 - Date of creation : Sep 7th ~ Sep 18th 2022
 - Date of debugging : Sep 19th ~ Sep 20th 2022
 - Date of upload in Github : Sep 20th 2022
