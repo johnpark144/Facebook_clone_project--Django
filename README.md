@@ -1,5 +1,5 @@
 # Facebook_clone_project--Django
-https://vyckd354.pythonanywhere.com/login/
+- Link : https://vyckd354.pythonanywhere.com/login/
 
 - Creater : Yeonghwan Park (John Park)
 - Main Tools : Python(Django)
@@ -9,6 +9,7 @@ This is Facebook clone page that I built by refering to orginal Facebook site.
 - Date of creation : Sep 7th ~ Sep 18th 2022
 - Date of debugging : Sep 19th ~ Sep 20th 2022
 - Date of upload in Github : Sep 20th 2022
+- Date of deployment : Nov 22th 2022
 
 # Functions
 - Navbar(responsive), Feed
