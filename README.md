@@ -8,7 +8,8 @@
 This is Facebook clone page that I built by refering to orginal Facebook site.
 - Ps :
 since It is first time project that I made, There would be some lack,
-but my work is getting improved after this project.
+but my work is getting improved after this project, I deployed this project late but I didn't fix any code,
+pleast understand for discomfort
 - Date of creation : Sep 7th ~ Sep 18th 2022
 - Date of debugging : Sep 19th ~ Sep 20th 2022
 - Date of upload in Github : Sep 20th 2022
