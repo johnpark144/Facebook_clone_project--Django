@@ -16,6 +16,7 @@ so please bear with discomfort
 - Date of debugging : Sep 19th ~ Sep 20th 2022
 - Date of upload in Github : Sep 20th 2022
 - Date of deployment : Nov 22th 2022
+- Deployment Tool : Pythonanywhere
 
 # Functions
 - Navbar(responsive), Feed
