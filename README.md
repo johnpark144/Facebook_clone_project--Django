@@ -15,6 +15,7 @@ so please bear with discomfort
 - Date of creation : Sep 7th ~ Sep 18th 2022
 - Date of debugging : Sep 19th ~ Sep 20th 2022
 - Date of upload in Github : Sep 20th 2022
+- Date of re-upload  : Feb 3rd 2023 (for deploy)
 - Date of deployment : Nov 22th 2022
 - Deployment Tool : Pythonanywhere
 
