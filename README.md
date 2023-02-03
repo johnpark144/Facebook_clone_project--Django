@@ -1,5 +1,5 @@
 # Facebook_clone_project--Django
-- Link : https://vyckd354.pythonanywhere.com/login/
+- Link : https://vyckd354.pythonanywhere.com/login/ ()
 
 - Creater : Yeonghwan Park (John Park)
 - Main Tools : Python(Django)
