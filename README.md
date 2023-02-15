@@ -1,23 +1,32 @@
 # Facebook_clone_project--Django
-- Link : https://vyckd354.pythonanywhere.com/login/ ()
-
+- (Please see sample videos below)
 - Creater : Yeonghwan Park (John Park)
 - Main Tools : Python(Django)
 - Sub Tools : Html, CSS(Bootstrap), JS(Jquery), Python(Beautifulsoup)
-- Explantion :
+- Explantion : <br>
 This is Facebook clone page that I built by refering to orginal Facebook site.
-- Word I want to leave about this project : <br>
-since It is first time project that I made, There would be some lack,
-but my work is getting improved after this project, I deployed this project late but I didn't fix any code,
-so please bear with discomfort
-- Comment language : English
+- Hard Part and Solution : <br>
+1. while implementing likes-function, I used to fix "model" file many time, as many "MVC" developer know, model file is very sensitive since it's about Database,
+one day in the middle of deleting and migrating datas back and force, "migrate" was not working at all in error "no such table", so it makes me wasting a lot of time, thankfuly I've got the solution which is "py manage.py migrate --run-syncdb" that makes Datebase table once again, I don't know if it is difficult error to django developer or not, but back then I found it hard as I made it as 1st self-project without any help from others
+2. basically Django and Jquery are not for SPA, so it was really hard to conceive all the logics to implement "likes number" that is changed in real time without moving on different page, so I did legwork going thru all the trials and errors repetively comparing likes-numbers that is input in real time and that is saved in database.
+3. while implementing auth part and saving user-info in Database, I continually failed to log in since encrypted-password and input-password were not matched,
+but I found that if I use formdata-method when password datas is sent from client to server with encryption, that password is manipulated to totaly diferent one that doesn't recognize encryption. so I used it to Json-method plus insted of using ajax, I used just form tag to send to server so I came to solve the error.
+it took me almost entire 2 days to find solution,
+- Things To Fix : need to get this clean code, better English-comment's grammer, replace success, error, complete in ajax about "console log"
 
+<br>
+- Word I want to leave about this project : <br>
+since It is first time project that I made, There would be some lack, but my work is getting improved after this project.
+I have found my lack in this project after all, but I didn't fix any code since I want to see my growing later on,
+so please bear with discomfort.
+
+<br>
+- Comment language : English
 - Date of creation : Sep 7th ~ Sep 18th 2022
 - Date of debugging : Sep 19th ~ Sep 20th 2022
 - Date of upload in Github : Sep 20th 2022
-- Date of re-upload  : Feb 3rd 2023 (for deploy)
-- Date of deployment : Nov 22th 2022
-- Deployment Tool : Pythonanywhere
+- Date of deployment : <strike>Nov 22th 2022</strike>
+- Deployment Tool : <strike>Pythonanywhere</strike>
 
 # Functions
 - Navbar(responsive), Feed
