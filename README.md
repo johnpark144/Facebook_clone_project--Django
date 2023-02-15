@@ -11,7 +11,7 @@ one day in the middle of deleting and migrating datas back and force, "migrate" 
 3. while implementing auth part and saving user-info in Database, I continually failed to log in since encrypted-password and input-password were not matched,
 but I found that if I use formdata-method when password datas is sent from client to server with encryption, that password is manipulated to totaly diferent one that doesn't recognize encryption. so I used it to Json-method plus insted of using ajax, I used just form tag to send to server so I came to solve the error.
 it took me almost entire 2 days to find solution,
-- Things To Fix : need to get this clean code, better English-comment's grammer, replace success, error, complete in ajax about "console log"
+- Things To Fix or Improve : need to get this clean code, better English-comment's grammer, replace success, error, complete in ajax about "console log"
 - Login Must ? : Yes (only with Sign-up)
 
 - Word I want to leave about this project : <br>
