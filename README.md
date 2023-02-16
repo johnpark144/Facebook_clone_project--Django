@@ -3,7 +3,7 @@
 - Creater : Yeonghwan Park (John Park)
 - Main Tools : Python(Django)
 - Sub Tools : Html, CSS(Bootstrap), JS(Jquery), Python(Beautifulsoup)
-- Idea or Not : Idea 15%(Crawling and make News), Clone 85% (some of Instagram tutorial code and refer to Facebook UI, UX)
+- Idea or Not : Idea 10%(Crawling and make News), Clone 90% (some of Instagram tutorial code and refer to Facebook UI, UX)
 - Explantion : This is Facebook clone page that I built by refering to orginal Facebook site.
 - Hard Part and Solution : <br>
 1. while implementing likes-function, I used to fix "model" file many time, as many "MVC" developer know, model file is very sensitive since it's about Database,
