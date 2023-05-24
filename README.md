@@ -1,4 +1,4 @@
-<a href="README_KOR.md">한글로 보기</a>
+<a href="README_KOR.md">한글로 보기(KOR)</a>
 # Facebook_clone_project--Django
 - (Please see sample videos below)
 - Creater : Yeonghwan Park (John Park)
