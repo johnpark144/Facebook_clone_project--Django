@@ -26,6 +26,7 @@ so please bear with discomfort.
 - Date of upload in Github : Sep 20th 2022
 - Date of deployment : <strike>Nov 22th 2022</strike>
 - Deployment Tool : <strike>Pythonanywhere</strike>
+- Considering various reasons such as the lack compared to other projects, the limit on the number of projects in Pythonanywhere, and the use of Janggo, not React which is my main tool, I withdrew its deployment, instead I replace it with videos below.
 
 # Functions
 - Navbar(responsive), Feed
